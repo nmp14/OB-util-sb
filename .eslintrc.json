@@ -22,7 +22,7 @@
     "rules": {
         "semi": ["error", "always"],
         "quotes": ["error", "double"],
-        "indent": ["error", "tab"],
+        "indent": ["error", 2],
         "getter-return": 1,
         "accessor-pairs": 1,
         "no-compare-neg-zero": 2
