@@ -23,8 +23,9 @@
         "semi": ["error", "always"],
         "quotes": ["error", "double"],
         "indent": ["error", "tab"],
-        "getter-return": "warning",
-        "accessor-pairs": "warning",
-        "no-compare-neg-zero": "error"
-    }
+        "getter-return": 1,
+        "accessor-pairs": 1,
+        "no-compare-neg-zero": 2
+    },
+    "ignorePatterns": ["src/stories**"]
 }
